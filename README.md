@@ -3,7 +3,7 @@
 This repository compiles and organizes the code needed to reproduce the **experiment section (Section 7)** from:
 
 **Uzma Hasan, Emam Hossain, Md Osman Gani.**  
-*A Survey on Causal Discovery Methods for I.I.D. and Time Series Data.* (TMLR, 09/2023).
+*A Survey on Causal Discovery Methods for I.I.D. and Time Series Data.* (Published in Transactions on Machine Learning Research (09/2023)).
 
 ## What’s included
 
