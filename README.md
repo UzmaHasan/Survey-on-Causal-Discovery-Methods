@@ -20,7 +20,7 @@
 
 ### I.I.D. experiments
 
-The implementations of the following benchmarked algorithms (PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN,GraN-DAG, GOLEM, and MCSL) have been adopted from the **gCastle** repository. 
+The implementations of the benchmarked algorithms PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN,GraN-DAG, GOLEM, and MCSL have been adopted from the **gCastle** repository. 
 
 **Implementation source:**
 
