@@ -9,10 +9,12 @@ This repository compiles and organizes the code needed to reproduce the **experi
 
 ### I.I.D. benchmarking (Section 7.1)
 **Datasets:** ASIA, CHILD, ALARM, HEPAR2 (with ground-truth). The CSV version of the datasets and their corresponding ground-truths are available in the **causallearn repository**: https://github.com/py-why/causal-learn
+
 **Methods:** PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN, GraN-DAG, GOLEM, MCSL.    
 
 ### Time-series benchmarking (Section 7.2)
 **Datasets:** Syn-6 (lag=2), fMRI (lag=1). 
+
 **Methods:** PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF.
 
 
