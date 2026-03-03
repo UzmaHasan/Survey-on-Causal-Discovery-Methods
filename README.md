@@ -6,7 +6,7 @@
 ## What’s included
 
 ### I.I.D. benchmarking (Section 7.1)
-**Datasets:** ASIA, CHILD, ALARM, HEPAR2. The csv version of the datasets and their corresponding ground-truths are available in the **causallearn repository**: https://github.com/py-why/causal-learn
+**Datasets:** ASIA, CHILD, ALARM, HEPAR2. Source: https://github.com/py-why/causal-learn
 
 **Methods:** PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN, GraN-DAG, GOLEM, MCSL.    
 
