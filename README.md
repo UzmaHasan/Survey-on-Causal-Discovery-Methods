@@ -33,7 +33,7 @@ Repository Link: https://github.com/huawei-noah/trustworthyAI/tree/master/gcastl
 
 ### Time-series experiments
 
-The implementation of the baseline algorithms have been adopted from the following repositories. The instructions to run the algorithms are available in those repositories.
+The implementation of the baseline algorithms (PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF) have been adopted from the following respective repositories. The instructions to run the algorithms are available in those repositories.
 
 **Implementation sources:**
 
