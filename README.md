@@ -3,10 +3,21 @@
 ### Uzma Hasan, Emam Hossain, Md Osman Gani
 Published in Transactions on Machine Learning Research (09/2023)
 
-## What’s included
+### 📖 Experimental Overview
+
+The survey benchmarks causal discovery algorithms in two settings:
+
+1. I.I.D. Data
+2. Time-Series Data
+
+Evaluation metrics reported in the paper:
+- SHD (Structural Hamming Distance)
+- TPR (True Positive Rate)
+- FDR (False Discovery Rate)
+
 
 ### I.I.D. benchmarking (Section 7.1)
-**Datasets:** ASIA, CHILD, ALARM, HEPAR2. Source: https://github.com/py-why/causal-learn
+**Datasets:** ASIA, CHILD, ALARM, HEPAR2. Source (includes dataset csv files and ground-truth DAGs): https://github.com/py-why/causal-learn
 
 **Methods:** PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN, GraN-DAG, GOLEM, MCSL.    
 
