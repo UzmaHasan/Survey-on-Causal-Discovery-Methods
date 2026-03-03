@@ -17,7 +17,7 @@ Evaluation metrics reported in the paper:
 
 
 ### I.I.D. benchmarking (Section 7.1)
-**Datasets:** ASIA, CHILD, ALARM, HEPAR2. Source (includes dataset csv files and ground-truth DAGs): https://github.com/py-why/causal-learn
+**Datasets:** ASIA, CHILD, ALARM, HEPAR2. Source: https://github.com/py-why/causal-learn (includes dataset csv files and ground-truth DAGs)
 
 **Methods:** PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN, GraN-DAG, GOLEM, MCSL.    
 
