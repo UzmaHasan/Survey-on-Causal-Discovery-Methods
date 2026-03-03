@@ -15,23 +15,12 @@ Evaluation metrics reported in the paper:
 - TPR (True Positive Rate)
 - FDR (False Discovery Rate)
 
-
 ### I.I.D. benchmarking (Section 7.1)
 **Datasets:** ASIA, CHILD, ALARM, HEPAR2. Source: https://github.com/py-why/causal-learn (includes dataset csv files and ground-truth DAGs)
 
 **Methods:** PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN, GraN-DAG, GOLEM, MCSL.    
 
-### Time-series benchmarking (Section 7.2)
-**Datasets:** Syn-6 (lag=2), fMRI (lag=1). 
-
-**Methods:** PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF.
-
-
-## Quickstart
-
-### I.I.D. experiments
-
-The implementations of the benchmarked algorithms PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN,GraN-DAG, GOLEM, and MCSL have been adopted from the **gCastle** repository. 
+The implementations of the above benchmarked algorithms have been adopted from the **gCastle** repository. 
 
 **Implementation source:**
 
@@ -42,9 +31,12 @@ Code run:
 1. PIP installation: `pip install gcastle==1.0.4rc1`
 2. To test an algorithm (for example PC) run: `python pc_demo.py`
 
-### Time-series experiments
+### Time-series benchmarking (Section 7.2)
+**Datasets:** Syn-6 (lag=2), fMRI (lag=1). 
 
-The implementation of the baseline algorithms (PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF) have been adopted from the following respective repositories. The step-by-step instructions to run the algorithms are available in those repositories.
+**Methods:** PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF.
+
+The implementation of the above benchmarked algorithms have been adopted from the following respective repositories. The step-by-step instructions to run the algorithms are available in those repositories.
 
 **Implementation sources:**
 
