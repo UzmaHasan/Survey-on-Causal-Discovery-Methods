@@ -28,8 +28,8 @@ The implementations of the following benchmarked algorithms (PC, GES, LiNGAM, Di
 
 Repository Link: https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 
-1. PIP installation: pip install gcastle==1.0.4rc1
-2. To test an algorithm (for example PC) run: python pc_demo.py
+1. PIP installation: `pip install gcastle==1.0.4rc1`
+2. To test an algorithm (for example PC) run: `python pc_demo.py`
 
 ### Time-series experiments
 
