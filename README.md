@@ -3,7 +3,7 @@
 ### Uzma Hasan, Emam Hossain, Md Osman Gani
 Published in Transactions on Machine Learning Research (09/2023)
 
-### 📖 Experimental Overview
+### Experimental Overview
 
 The survey benchmarks causal discovery algorithms in two settings:
 
