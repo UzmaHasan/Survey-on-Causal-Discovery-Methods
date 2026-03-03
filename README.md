@@ -33,7 +33,7 @@ Code run:
 
 ### Time-series experiments
 
-The implementation of the baseline algorithms (PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF) have been adopted from the following respective repositories. The instructions to run the algorithms are available in those repositories.
+The implementation of the baseline algorithms (PCMCI, PCMCI+, VarLiNGAM, DyNOTEARS, TCDF) have been adopted from the following respective repositories. The step-by-step instructions to run the algorithms are available in those repositories.
 
 **Implementation sources:**
 
