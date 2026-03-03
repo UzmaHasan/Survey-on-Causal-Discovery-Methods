@@ -1,7 +1,7 @@
 # A Survey on Causal Discovery Methods for I.I.D. and Time Series Data
 
 ### Uzma Hasan, Emam Hossain, Md Osman Gani
-*A Survey on Causal Discovery Methods for I.I.D. and Time Series Data.* (Published in Transactions on Machine Learning Research (09/2023)).
+Published in Transactions on Machine Learning Research (09/2023)
 
 ## What’s included
 
