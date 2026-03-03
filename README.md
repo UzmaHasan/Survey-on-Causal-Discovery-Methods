@@ -36,5 +36,7 @@ The implementation of the baseline algorithms have been adopted from the followi
 
 **Implementation sources:**
 PCMCI and PCMCI+:      https://github.com/jakobrunge/tigramite
+
 VarLiNGAM and DyNOTEARS:      https://github.com/ckassaad/causal_discovery_for_time_series 
+
 TCDF:      https://github.com/M-Nauta/TCDF
