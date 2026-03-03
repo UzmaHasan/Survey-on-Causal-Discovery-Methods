@@ -25,6 +25,7 @@ This repository compiles and organizes the code needed to reproduce the **experi
 The implementations of the following benchmarked algorithms (PC, GES, LiNGAM, Direct-LiNGAM, NOTEARS, DAG-GNN,GraN-DAG, GOLEM, and MCSL) have been adopted from the **gCastle** repository. 
 
 **Implementation source:**
+
 Repository Link: https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 
 1. PIP installation: pip install gcastle==1.0.4rc1
@@ -35,6 +36,7 @@ Repository Link: https://github.com/huawei-noah/trustworthyAI/tree/master/gcastl
 The implementation of the baseline algorithms have been adopted from the following repositories. The instructions to run the algorithms are available in those repositories.
 
 **Implementation sources:**
+
 PCMCI and PCMCI+:      https://github.com/jakobrunge/tigramite
 
 VarLiNGAM and DyNOTEARS:      https://github.com/ckassaad/causal_discovery_for_time_series 
